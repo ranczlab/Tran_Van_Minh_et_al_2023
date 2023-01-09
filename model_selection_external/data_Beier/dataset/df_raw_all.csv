@@ -1,0 +1,73 @@
+,ID,starter,input,condition,cell_type
+0,56_Amy 4,11.0,553,GAD2-Cre cTRIO,unknown
+1,65_mPFC 1,11.0,446,vGluT2-Cre cTRIO,unknown
+2,66_mPFC 2,11.0,400,vGluT2-Cre cTRIO,unknown
+3,55_Amy 3,16.0,247,GAD2-Cre cTRIO,unknown
+4,20_NAcMed 4,16.0,778,TRIO,unknown
+5,24_mPFC 4,16.0,2945,TRIO,unknown
+6,68_mPFC 4,18.0,1886,vGluT2-Cre cTRIO,unknown
+7,51_mPFC 3,18.0,350,GAD2-Cre cTRIO,unknown
+8,23_mPFC 3,20.0,613,TRIO,unknown
+9,19_NAcMed 3,22.0,1186,TRIO,unknown
+10,52_mPFC 4,22.0,173,GAD2-Cre cTRIO,unknown
+11,38_mPFC 2,23.0,1762,DAT-Cre cTRIO,unknown
+12,43_Amy 3,24.0,614,DAT-Cre cTRIO,unknown
+13,49_mPFC 1,24.0,484,GAD2-Cre cTRIO,unknown
+14,39_mPFC 3,28.0,1643,DAT-Cre cTRIO,unknown
+15,59_NAcLat 3,29.0,2945,vGluT2-Cre cTRIO,unknown
+16,64_NAcMed 4,31.0,928,vGluT2-Cre cTRIO,unknown
+17,53_Amy 1,31.0,466,GAD2-Cre cTRIO,unknown
+18,42_Amy 2,33.0,244,DAT-Cre cTRIO,unknown
+19,22_mPFC 2,36.0,1217,TRIO,unknown
+20,36_NAcMed 4,40.0,834,DAT-Cre cTRIO,unknown
+21,45_NAcLat 1,40.0,526,GAD2-Cre cTRIO,unknown
+22,44_Amy 4,40.0,1042,DAT-Cre cTRIO,unknown
+23,71_Amy 3,40.0,1666,vGluT2-Cre cTRIO,unknown
+24,67_mPFC 3,42.0,1471,vGluT2-Cre cTRIO,unknown
+25,70_Amy 2,42.0,5089,vGluT2-Cre cTRIO,unknown
+26,48_NAcLat 4,44.0,663,GAD2-Cre cTRIO,unknown
+27,72_Amy 4,51.0,766,vGluT2-Cre cTRIO,unknown
+28,50_mPFC 2,56.0,627,GAD2-Cre cTRIO,unknown
+29,46_NAcLat 2,56.0,376,GAD2-Cre cTRIO,unknown
+30,21_mPFC 1,60.0,1290,TRIO,unknown
+31,54_Amy 2,60.0,1401,GAD2-Cre cTRIO,unknown
+32,17_NAcMed 1,64.0,13224,TRIO,unknown
+33,58_NAcLat 2,67.0,2766,vGluT2-Cre cTRIO,unknown
+34,69_Amy 1,69.0,5175,vGluT2-Cre cTRIO,unknown
+35,47_NAcLat 3,73.0,1553,GAD2-Cre cTRIO,unknown
+36,63_NAcMed 3,80.0,8648,vGluT2-Cre cTRIO,unknown
+37,40_mPFC 4,84.0,772,DAT-Cre cTRIO,unknown
+38,27_Amy 3,84.0,1701,TRIO,unknown
+39,61_NAcMed 1,96.0,1430,vGluT2-Cre cTRIO,unknown
+40,37_mPFC 1,102.0,2467,DAT-Cre cTRIO,unknown
+41,57_NAcLat 1,104.0,12926,vGluT2-Cre cTRIO,unknown
+42,18_NAcMed 2,109.0,3227,TRIO,unknown
+43,26_Amy 2,136.0,2223,TRIO,unknown
+44,34_NAcMed 2,138.0,2978,DAT-Cre cTRIO,unknown
+45,41_Amy 1,158.0,1727,DAT-Cre cTRIO,unknown
+46,62_NAcMed 2,160.0,8034,vGluT2-Cre cTRIO,unknown
+47,28_Amy 4,196.0,2680,TRIO,unknown
+48,15_NAcLat 3,217.77777777777777,33998,TRIO,unknown
+49,25_Amy 1,313.0,7340,TRIO,unknown
+50,32_NAcLat 4,322.0,10216,DAT-Cre cTRIO,unknown
+51,29_NAcLat 1,416.0,36581,DAT-Cre cTRIO,unknown
+52,31_NAcLat 3,420.0,18967,DAT-Cre cTRIO,unknown
+53,7_GAD2-Cre 3,467.0,4915,Input Tracing,GAD2
+54,60_NAcLat 4,489.0,12673,vGluT2-Cre cTRIO,unknown
+55,35_NAcMed 3,500.0,20747,DAT-Cre cTRIO,unknown
+56,33_NAcMed 1,522.0,2712,DAT-Cre cTRIO,unknown
+57,11_vGluT2-Cre 3,538.0,15881,Input Tracing,vGluT
+58,14_NAcLat 2,580.0,52394,TRIO,unknown
+59,12_vGluT2-Cre 4,616.0,8223,Input Tracing,vGluT
+60,30_NAcLat 2,673.0,17131,DAT-Cre cTRIO,unknown
+61,13_NAcLat 1,708.8888888888889,34205,TRIO,unknown
+62,16_NAcLat 4,711.1111111111111,56186,TRIO,unknown
+63,9_vGluT2-Cre 1,1047.0,21175,Input Tracing,vGluT
+64,6_GAD2-Cre 2,1060.0,3554,Input Tracing,GAD2
+65,4_DAT-Cre 4,1118.0,36266,Input Tracing,DAT
+66,10_vGluT2-Cre 2,1436.0,13443,Input Tracing,vGluT
+67,2_DAT-Cre 2,1680.0,16390,Input Tracing,DAT
+68,8_GAD2-Cre 4,1700.0,3053,Input Tracing,GAD2
+69,5_GAD2-Cre 1,1769.0,26106,Input Tracing,GAD2
+70,1_DAT-Cre 1,2531.0,18304,Input Tracing,DAT
+71,3_DAT-Cre 3,2889.0,16645,Input Tracing,DAT
