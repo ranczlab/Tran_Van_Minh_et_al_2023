@@ -1,7 +1,5 @@
-# Rabies_paper
-Data and code for rabies paper. 
-
-Jupyter notebooks and data for Tran... 
-
-Steps1-9 reproduce the analysis carried out in the paper. 
-xxx reproduces figures. 
+### Data and code for Tran Van Minh et al PLOS One paper. 
+- for your own data, follow input dataformat in data/raw/
+- step1_ to step9_ jupyter notebooks reproduce the analysis
+- figures/plot_fig jupyter notebooks reproduces figures
+- tested on macOS with python 3.9.15 and respective packages
