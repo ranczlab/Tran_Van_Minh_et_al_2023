@@ -2,12 +2,12 @@
 # coding: utf-8
 # REQURES PYTHON3.5 (pytables has an issue with saving to hdf with newer versions)
 
-# if input argument is number, runs 10 interations, random seed and output filename defined by input arg, this is to be used on cluster to run several jobs in parallel, takes 3+ hours 
+# if input argument is number, runs 10 interations, random seed and output filename defined by input arg, this is to be used on cluster to run several jobs in parallel, takes 6+ hours 
 # if input argument is "none" runs 100 interations and creates single output file (this takes 30+ hours but needs to be done on single machines for memory purposes)
 
 # test with smaller tissue block and fewer density values; still 100 seeds 
 
-#data generation uses a lot of memory (64GB should be OK) and takes 10+ hours 
+#data generation uses a lot of memory (64GB should be OK) and takes 24+ hours 
 #some calculation using 100000 neuron / mm3 from https://doi.org/10.3389/fnana.2018.00083
 #max_packing_density = ((100000*(4/3*np.pi*10**3))/1000**3) ~42% with 10µm radius cells 
 #our random cell placing method goes up to ~10% and plateaus at ~50000 cell / mm3
