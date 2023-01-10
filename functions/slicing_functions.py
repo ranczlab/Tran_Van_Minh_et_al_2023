@@ -76,7 +76,7 @@ def slicing_model_generate(seed, block_xy, block_z, num_points, radius):
     return points_df
      
     
-def slicing_model_count(points_df, radius, block_z, thickness, keep_every): #this one has the count every physical slice option 
+def slicing_model_count(points_df, radius, block_z, thickness, keep_every):
     all_slices_y = all_slices_pos(block_z, thickness)
     slices_y_keep = kept_slices(all_slices_y, keep_every)
     
@@ -99,7 +99,7 @@ def slicing_model_count(points_df, radius, block_z, thickness, keep_every): #thi
     points_df['num_slices'] = points_df[['binned', 'binned_left', 'binned_right']].stack().groupby(level=0).nunique()
     points_kept = points_df[(points_df.bins_left_left.isin(slices_y_keep)) | (points_df.bins_right_left.isin(slices_y_keep))]
 
-    if keep_every == 1: #could use this approach to count every n-th slice as well
+    if keep_every == 1:
         cells_per_slice = []
         for this_slice in points_df.binned.unique():
             cells_in_slice = points_df[(points_df.binned_left == this_slice) | (points_df.binned_right == this_slice)]
