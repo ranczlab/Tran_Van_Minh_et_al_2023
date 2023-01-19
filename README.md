@@ -4,3 +4,4 @@
 - step9 recreates stimulation for figS20 (this can take a while and needs 64+ GB memory)
 - jupyter notebooks in figures/plot_figXX reproduce figures
 - tested on macOS with Python 3.9 and respective packages (except seaborn==0.11.1)
+
