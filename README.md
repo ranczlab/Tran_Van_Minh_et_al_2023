@@ -7,3 +7,5 @@ Do you have rabies tracing data? Are you planning to acquire some? Read the pape
 - step9 recreates stimulation for figS20 (this can take a while and needs 64+ GB memory)
 - jupyter notebooks in figures/plot_figXX reproduce figures
 - tested on macOS with Python 3.9 and respective packages (except seaborn==0.11.1)
+
+The pdf version included here is easier to read, as it includes all the supplementary material. 
