@@ -1,6 +1,6 @@
 ### Data and code for [Tran-Van-Minh et al. PLOS One paper.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278053)
 
-Do you have rabies tracing data? Are you planning to acquire some? Read the paper and try our code. The pdf version included here is easier to read, as it includes all the supplementary material. 
+Do you have rabies tracing data? Are you planning to acquire some? Read the paper and try our code. The [pdf version included here](https://github.com/ranczlab/Tran_Van_Minh_et_al_2023/blob/main/TranVanMinh_et_al_final.pdf) is easier to read, as it includes all the supplementary material. 
 
 - for your own data, follow input dataformat in data/raw/
 - jupyter notebooks step1_ to step8_ reproduce the analysis (already run in the repo, if you only want to reproduce figures, you can skip to that below)
